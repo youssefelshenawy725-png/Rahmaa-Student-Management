@@ -35,9 +35,9 @@ class Student {
 // Create 4 students
 let students = [
     new Student(1, "Ahmed", [80, 90, 85], 90),
-    new Student(2, "Mona", [70, 75, 80], 85),
+    new Student(2, "Rahma", [70, 75, 80], 85),
     new Student(3, "Ali", [40, 45, 50], 60),
-    new Student(4, "Sara", [95, 90, 100], 95)
+    new Student(4, "aya", [95, 90, 100], 95)
 ];
 
 // Display student information
